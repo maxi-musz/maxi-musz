@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on [Twitter clone](https://github.com/Maximus-2067/Twitter-clone)
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Web 3.0**
 
 - 👯 I’m looking to collaborate on **any SE, ML engineering projects**
 
