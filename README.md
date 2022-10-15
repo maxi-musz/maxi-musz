@@ -1,3 +1,5 @@
+<img alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" justify-content="center">
+
 <h1 align="center">Hi 👋, I'm Mayowa-Bernard (Maximus)</h1>
 <h3 align="center">A passionate Software Engineer, ML Engineer from Nigeria</h3>
  
