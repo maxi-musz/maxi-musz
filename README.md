@@ -7,22 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/oragon_hub" target="blank"><img src="https://img.shields.io/twitter/follow/oragon_hub?logo=twitter&style=for-the-badge" alt="oragon_hub" /></a> </p>
 
-- 🔭 Currently working on [Twitter clone](https://github.com/Maximus-2067/Twitter-clone)
+- 🔭 Currently working on [chat-app](https://github.com/maxi-musz)
 
-- 🌱 I’m currently learning **Web 3.0**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **any SE, ML engineering projects**
+- 👯 I’m looking to collaborate on **any Software Engineering, Machine Learning projects**
 
-- 🤝 I’m looking for help with [ALX Software Engineering Programme](https://github.com/Maximus-2067/alx-low_level_programming)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Maximus-2067](https://github.com/Maximus-2067)
+- 👨‍💻 All of my projects are available at [Maximus-github](https://github.com/maxi-musz)
 
 - 💬 Ask me about **Full Stack Development, Cloud Computing, Web Securities, MERN Stack Development**
 
-- 📫 How to reach me **https://maximus-2067.github.io/maximus/**
+- 📫 contact me via **My Portfolio** [Check-Portfolio](https://maximushub.netlify.app/)
 
-- 📄 Know about my experiences [https://maximus-2067.github.io/maximus/](https://maximus-2067.github.io/maximus/)
-
+- 📄 Know about my experiences [Maximus-Repositories](https://github.com/maxi-musz?tab=repositories)
 - ⚡ Fun fact **The faster I run, the further into the future i travel**
 
 <h3 align="left">Connect with me:</h3>
