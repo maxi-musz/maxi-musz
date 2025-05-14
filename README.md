@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/oragon_hub" target="blank"><img src="https://img.shields.io/twitter/follow/oragon_hub?logo=twitter&style=for-the-badge" alt="oragon_hub" /></a> </p>
 
-- 🔭 Currently working on **Docker and DevOps**
+- 🔭 Currently working on **DevOps**
 
 - 🌱 I’m currently expanding my knowledge on **DevOps**
 
